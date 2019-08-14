@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="109708" started-at="2019-08-14T14:59:21Z" finished-at="2019-08-14T15:01:11Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="109708" started-at="2019-08-14T14:59:21Z" finished-at="2019-08-14T15:01:11Z">
+      <class name="test.S5">
+        <test-method status="PASS" signature="M5()[pri:0, instance:test.S5@482f8f11]" name="M5" duration-ms="109674" started-at="2019-08-14T14:59:21Z" finished-at="2019-08-14T15:01:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- M5 -->
+      </class> <!-- test.S5 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
