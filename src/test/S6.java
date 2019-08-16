@@ -50,7 +50,6 @@ package test;
 			for (; j < s.length; j++) {
 
 				System.out.println(s[j]);
-				;
 
 			}
 			Arrays.sort(s);
