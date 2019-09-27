@@ -2,7 +2,7 @@ describe('Login to cooey', function(){
 
     it('Testing login',function(){
     
-         .get('https://test.portal.cooey.co.in/login');
+        browsers .get('https://test.portal.cooey.co.in/login');
          element(by.id('name')).sendKeys('test@cooey.co.in');
          element(by.id('password')).sendKeys('test1234!');
          element(by.className('login-button ant-btn ant-btn-primary ant-btn-round')).click();
